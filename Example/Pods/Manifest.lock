@@ -1,0 +1,16 @@
+PODS:
+  - TSSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - TSSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  TSSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSSuperImages: cb55726da54feec548204560b2f70e01bad529b8
+
+PODFILE CHECKSUM: 9be7b34977ae7189cc72c3c96dd76b579e006728
+
+COCOAPODS: 1.5.3

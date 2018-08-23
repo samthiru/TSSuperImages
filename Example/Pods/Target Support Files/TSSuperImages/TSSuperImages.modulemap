@@ -1,0 +1,6 @@
+framework module TSSuperImages {
+  umbrella header "TSSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

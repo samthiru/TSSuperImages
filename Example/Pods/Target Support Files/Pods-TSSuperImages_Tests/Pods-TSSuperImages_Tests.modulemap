@@ -1,0 +1,6 @@
+framework module Pods_TSSuperImages_Tests {
+  umbrella header "Pods-TSSuperImages_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
